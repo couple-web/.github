@@ -129,14 +129,48 @@ WE ARE는 단순한 커플 다이어리나 메신저를 넘어서,
 
 ---
 
-## 🛠 기술 스택
+## 🛠️ 주요 기술
 
-| 영역 | 사용 기술 |
-|------|-----------|
-| **Frontend** | React, Zustand, Styled-components, React Router, Axios |
-| **Backend** | Spring Boot, Spring Security, JPA, MySQL, JWT, WebSocket, Scheduler |
-| **Infra / DevOps** | GitHub Actions, AWS EC2, Nginx, Jenkins |
-| **외부 API** | OpenWeather, Google Map, Hugging Face, Naver 검색 API |
+### 1. Frontend
+- React
+- JavaScript (ES6+)
+- Zustand (전역 상태 관리)
+- Styled-components
+- React Router
+- Axios
+- WebSocket (실시간 알림)
+- Visual Studio Code
+
+### 2. Backend
+- Java
+- Spring Boot
+- Spring Security (JWT 인증)
+- JPA (Hibernate)
+- MySQL
+- WebSocket (STOMP 기반 실시간 처리)
+- Scheduler (@Scheduled 기반 예약 작업)
+- Gradle
+- IntelliJ IDEA
+
+### 3. Storage & Infra
+- MySQL (관계형 데이터베이스)
+- AWS EC2 (서버 인프라)
+- Nginx (정적 자원 라우팅)
+- Jenkins (CI/CD 파이프라인 자동화)
+- GitHub Actions (자동화 빌드/테스트)
+
+### 4. External API & AI
+- Google Map API (지도 기반 장소 표시)
+- OpenWeather API (지역 기반 날씨 정보)
+- Hugging Face (감성 기반 장소 추천 AI 모델)
+- Naver 검색 API (장소 키워드 보강)
+
+### 5. 협업 & 개발 도구
+- GitHub (형상 관리 / 협업)
+- Notion (회의록, 기획 정리)
+- Figma (UI 디자인 협업)
+- ERDCloud (DB 설계 시각화)
+
 
 ---
 
