@@ -4,6 +4,16 @@
 
 <h1 align="center">💑 WE ARE</h1>
 <p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Zustand-8DD6F9?style=for-the-badge&logo=zotero&logoColor=black" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-5A29E4?style=for-the-badge&logo=websocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenWeather-1293D8?style=for-the-badge&logo=OpenWeather&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kakao Map-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black" />
+</p>
+<p align="center">
   감성을 기억하는 커플 플랫폼<br />
   기록, 추천, 소통이 어우러진 <strong>AI + 실시간 알림 기반</strong> 커플 웹 서비스
 </p>
