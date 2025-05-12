@@ -1,77 +1,147 @@
 <p align="center">
-  <img src="https://your-logo-image-url" width="160" />
+  <img src="https://user-images.githubusercontent.com/your-logo-image.png" width="180" />
 </p>
 
 <h1 align="center">💑 WE ARE</h1>
 <p align="center">
-  <strong>기록, 추천, 감성의 조화</strong><br />
-  소중한 순간을 더 오래, 더 특별하게 남기기 위한 커플 전용 웹 플랫폼
+  감성을 기억하는 커플 플랫폼<br />
+  기록, 추천, 소통이 어우러진 <strong>AI + 실시간 알림 기반</strong> 커플 웹 서비스
 </p>
 
 ---
 
-## 🌈 프로젝트 소개
+## 🎯 프로젝트 개요
 
-**WE ARE**는 커플이 함께한 추억을 기록하고,  
-기념일과 일정을 관리하며,  
-AI 기반으로 장소 추천까지 받을 수 있는 **올인원 커플 플랫폼**입니다.
+**WE ARE**는 단순한 커플 다이어리나 메신저를 넘어,  
+**연인의 기억을 감성적으로 기록하고**,  
+**AI 기반으로 데이트 장소를 추천하며**,  
+**기념일 및 일정 알림을 실시간으로 받을 수 있는**,  
+커플을 위한 종합 플랫폼입니다.
 
-> 감성적인 UI, 사진 중심의 앨범, 실시간 알림, 그리고 나만의 커플 캘린더까지!  
-> 함께한 시간을 의미 있게 쌓을 수 있도록 돕습니다.
-
----
-
-## 🛠️ 주요 기능
-
-- 🗓 **캘린더 & 일정 관리**  
-  기념일, 투두 등록 + 3일/7일 전 날씨 기반 알림
-
-- 📸 **앨범형 추억 저장**  
-  사진/텍스트 기반 추억 카드 UI
-
-- 📍 **데이트 장소 추천**  
-  카카오맵 기반 지역별/카테고리별 추천 + 사진 미리보기
-
-- 💬 **실시간 채팅 및 알림**  
-  WebSocket을 활용한 실시간 커뮤니케이션
-
-- 📊 **관리자 통계 기능**  
-  유저 수, 인기 장소, 월별 접속률 시각화
+우리는 기존 커플 앱의 단조로운 기능을 넘어서,  
+**실제 사용자의 라이프스타일과 감성에 맞는 서비스를 제공**하고자 했습니다.
 
 ---
 
-## ⚙️ 기술 스택
+## 🧩 핵심 기능
 
-| 구분 | 기술 |
-|------|------|
-| Frontend | React, Zustand, Styled-components, Axios |
-| Backend | Spring Boot, JPA, MySQL, WebSocket, Scheduler |
-| Infra/API | OpenWeather, KakaoMap, Hugging Face, GitHub Actions |
+### 📌 1. 감성 기록 앨범
+- 사진 + 문구로 구성된 추억 카드 기반의 앨범 UI
+- 책장을 넘기듯 넘기며 추억을 돌아볼 수 있는 UX 설계
+- 일정에 따라 자동 정렬 및 필터링 제공
 
----
+### 📌 2. 커플 일정 관리 캘린더
+- 기념일 및 개인 일정 등록 가능
+- 3일 전 / 7일 전 자동 날씨 예보 알림
+- 지역 기반 날씨를 실시간으로 조회하여 이벤트 최적화
 
-## 📂 프로젝트 저장소
+### 📌 3. AI 데이트 장소 추천
+- 지역 + 카테고리(맛집, 포토존 등) 기반 추천
+- KakaoMap API와 연동된 지도 기반 UI
+- Hugging Face AI 모델을 통한 사용자 맞춤형 장소 추천 (감성 필터링 포함)
 
-| 역할 | 저장소 | 설명 |
-|------|--------|------|
-| 🌐 소개 리드미 | [project-weare](https://github.com/couple-web/project-weare) | 전체 프로젝트 문서 & 흐름 |
-| 💻 프론트엔드 | [weare-front](https://github.com/couple-web/weare-front) | React 기반 사용자 인터페이스 |
-| 🔧 백엔드 | [weare-back](https://github.com/couple-web/weare-back) | Spring Boot 기반 API 서버 |
+### 📌 4. 실시간 채팅 및 알림
+- WebSocket 기반 실시간 알림 (일정, 날씨, 댓글)
+- 메시지, 알림 배지, 알림 리스트 연동
+- 사용자별 수신 대상 필터링 처리
 
----
-
-## 👨‍👩‍👧‍👦 팀원 소개
-
-| 이름 | 역할 | 주요 담당 |
-|------|------|-----------|
-| **남재우** | 팀장 / 프론트 | 지도 API, 관리자 페이지, 인트로 애니메이션 |
-| **유서영** | 프론트 | 감성 앨범, DTO 구성, 전반적인 UI 흐름 |
-| **오정재** | 백엔드 | 일정/기념일 관리, 스케줄러, DB 설계 |
-| **강준우** | 백엔드 | 실시간 알림, WebSocket, UI/UX 디버깅 |
+### 📌 5. 관리자 기능
+- 총 회원 수, 인기 장소, 최근 게시글 수 시각화
+- 월별 방문자 수 및 장소 등록 수 차트 시각화 (Chart.js)
 
 ---
 
-<p align="center">
-  <strong>함께한 순간을 더 오래, 더 깊게 기록하고 싶다면</strong><br />
-  ✨ <b>WE ARE</b>와 함께하세요.
-</p>
+## 🛠 기술 스택
+
+| 영역 | 사용 기술 |
+|------|-----------|
+| **Frontend** | React, Zustand, Styled-components, React Router, Axios |
+| **Backend** | Spring Boot, Spring Security, JPA, MySQL, JWT, WebSocket, Scheduler |
+| **Infra / DevOps** | GitHub Actions, AWS EC2, Nginx, Jenkins |
+| **외부 API** | OpenWeather, Kakao Map, Hugging Face, Naver 검색 API |
+
+---
+
+## 📂 프로젝트 저장소 구조
+
+| 저장소 | 설명 | 링크 |
+|--------|------|------|
+| 🗂️ `project-weare` | 전체 소개 및 문서화용 리포지토리 | [🔗 바로가기](https://github.com/couple-web/project-weare) |
+| 💻 `weare-front` | React 기반 프론트엔드 코드 | [🔗 바로가기](https://github.com/couple-web/weare-front) |
+| 🔧 `weare-back` | Spring Boot 기반 백엔드 코드 | [🔗 바로가기](https://github.com/couple-web/weare-back) |
+
+---
+
+## 👨‍👩‍👧‍👦 팀원 및 역할
+
+| 이름 | 역할 | 담당 내용 |
+|------|------|------------|
+| **남재우** | 팀장 / 프론트 | 조직 아키텍처 설계, 지도 기반 장소 추천 구현, 관리자 통계 UI, 인트로 UX |
+| **유서영** | 프론트 | 앨범형 UI 설계, 감성 카드 뷰 구현, 일정 캘린더 UX |
+| **오정재** | 백엔드 | // |
+| **강준우** | 백엔드 | // |
+
+---
+
+## 💬 개발 목표 및 방향성
+
+- 사용자에게 **감성적인 경험**을 제공하면서도,  
+  **실용적인 기능** (추천, 일정, 알림)을 통합한 **몰입형 커플 플랫폼** 개발
+- 각 컴포넌트의 UX 완성도와 **실제 사용자 입장에서의 흐름 설계**에 집중
+- 추억을 ‘기록’하는 데서 그치지 않고,  
+  **추천 → 일정화 → 기록화**까지 자연스럽게 이어지는 전체 흐름을 고려함
+
+---
+
+## 🧠 백엔드 기능 처리 흐름 (주요 예시)
+
+### 📅 일정 & 날씨 알림
+1. 사용자가 일정(기념일, 투두 등) 등록
+2. 스케줄러(@Scheduled)가 3일 전 / 7일 전 기준으로 감지
+3. 사용자 지역 기반으로 OpenWeather API 호출
+4. 조건 만족 시 → 알림 데이터 생성
+5. WebSocket을 통해 실시간 알림 전송 + 알림 리스트 DB 저장
+
+### 📍 장소 추천 기능
+1. 사용자 지역 + 카테고리 선택
+2. KakaoMap API로 지도 및 마커 표시
+3. 선택된 장소를 Hugging Face 기반 추천 알고리즘에 전달
+4. 유사 감성의 장소를 필터링하여 결과 반환
+5. 프론트에서 카드형 UI로 장소 정보 시각화
+
+### 📊 관리자 대시보드
+- 차트.js를 활용해 유저 수, 월별 방문자 수, 장소 등록 수 등을 실시간 그래프로 표현
+- 백엔드에서 통계 집계 쿼리 수행 후 JSON 형태로 반환
+
+---
+
+## 🖥 프론트엔드 컴포넌트 구조 요약
+
+| 기능 영역 | 주요 컴포넌트 |
+|-----------|----------------|
+| 인트로 | `Intro`, `LogoTransition` |
+| 장소 추천 | `MapPicker`, `PlaceCard`, `CategoryFilter` |
+| 앨범 | `AlbumPage`, `CardItem`, `ImageViewer` |
+| 일정 관리 | `Calendar`, `ToDoList`, `WeatherAlarm` |
+| 알림 | `AlarmList`, `AlarmItem`, `WebSocketHandler` |
+| 관리자 페이지 | `AdminDashboard`, `ChartSection`, `StatBox` |
+
+- Zustand를 활용한 전역 상태 관리
+- Styled-components로 페이지별 독립 디자인
+- `sessionStorage`를 통한 인증 정보 유지 및 로그인 처리
+
+---
+
+## 💌 마무리 한 줄
+
+> 우리는 단순한 서비스 개발이 아닌,  
+> **"사랑을 감성적으로 기억하게 해주는 플랫폼"**을 만들고자 했습니다.
+
+WE ARE는  
+✨ **기억 → 추천 → 계획 → 소통** 이라는 흐름 안에서  
+커플의 관계가 더 특별해지길 바라는 마음으로 설계되었습니다.
+
+---
+
+<p align="center"><b>기록하고, 추천받고, 추억하는 모든 순간</b><br />우리는 <strong>WE ARE</strong>와 함께합니다.</p>
+
