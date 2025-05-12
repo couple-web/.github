@@ -184,13 +184,51 @@ WE ARE는 단순한 커플 다이어리나 메신저를 넘어서,
 
 ---
 
-## 📂 프로젝트 저장소 구조
+## 📁 프로젝트 구조
 
-| 저장소 | 설명 | 링크 |
-|--------|------|------|
-| 🗂️ `project-weare` | 전체 소개 및 문서화용 리포지토리 | [🔗 바로가기](https://github.com/couple-web/project-weare) |
-| 💻 `weare-front` | React 기반 프론트엔드 코드 | [🔗 바로가기](https://github.com/couple-web/weare-front) |
-| 🔧 `weare-back` | Spring Boot 기반 백엔드 코드 | [🔗 바로가기](https://github.com/couple-web/weare-back) |
+### 1. Frontend
+
+```
+NAMANSOLO
+├── public
+│   └── vite.svg
+├── src
+│   ├── assets
+│   ├── components
+│   │   ├── Admin
+│   │   ├── Album
+│   │   ├── api
+│   │   ├── Button
+│   │   ├── ChatBot
+│   │   ├── FindIdAndPwd
+│   │   ├── img
+│   │   ├── Login
+│   │   ├── MainPage
+│   │   ├── Map
+│   │   ├── MapPicker
+│   │   ├── MyPage
+│   │   ├── Register
+│   │   └── WebSocket
+│   ├── api.js
+│   ├── api1.js
+│   ├── api2.js
+│   ├── api3.js
+│   ├── Event.jsx
+│   ├── Footer.jsx
+│   ├── Header.jsx
+│   ├── Icons.jsx
+│   ├── PopUp.jsx
+│   ├── SlideMenu.jsx
+│   ├── Test.jsx
+│   ├── UserAlbumDummy.jsx
+│   ├── Websocket.js
+│   ├── img
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.js
+├── .env
+```
 
 ---
 
