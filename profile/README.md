@@ -319,10 +319,11 @@ NAMANSOLOJAVA
 <table>
   <tr>
     <td align="center">
-      <img src="이미지_URL_1" width="120"><br/>
+      <img src="https://github.com/Dwsok472/NamanSOLO/issues/1#issue-3062550334" width="120"><br/>
       <b>남재우</b><br/>
       팀장 / 프론트엔드<br/>
       지도 추천 / 관리자 UI / 인트로 UX<br/>
+      <i>✨ 코드 즉석 요리사</i>
     </td>
     <td align="center">
       <img src="이미지_URL_2" width="120"><br/>
