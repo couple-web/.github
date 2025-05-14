@@ -314,6 +314,29 @@ NAMANSOLOJAVA
 
 ---
 
+## 🖥 화면
+
+## 🎬 인트로 애니메이션
+
+<video width="320" height="auto" controls autoplay muted loop>
+  <source src="https://private-user-images.githubusercontent.com/185031810/443725210-257169c7-e171-4e1c-87b4-f3973a55b1c7.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzYwMzUsIm5iZiI6MTc0NzIzNTczNSwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzI1MjEwLTI1NzE2OWM3LWUxNzEtNGUxYy04N2I0LWYzOTczYTU1YjFjNy5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNTE1MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZjgzZmU2YzE1ZTg1Yzk3MWUxMDZkMGY4OWNkY2RjZmJiODRjOWFmZmJkMTU2NGU0MDk4MzE1Y2ZlYzBmMjQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.vujZM1807-LlTCoNwN_6zEOuiLb0i8ChxvagI1-Np4s" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+> 인트로 페이지 진입 시, 텍스트가 등장하며 로고로 자연스럽게 전환되는 감성 연출이 포함되어 있습니다.
+
+
+---
+
+> 🏠 **메인 페이지**
+인트로가 끝난 후,  
+감성 문구와 CTA 버튼이 등장하며  
+각 버튼은 기능별로 정확하게 이동하도록 설계되어 있습니다.
+
+![메인 페이지](https://user-images.githubusercontent.com/너_URL2.png)
+
+---
+
 ## 👥 팀원 소개
 
 <table>
