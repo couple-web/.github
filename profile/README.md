@@ -312,7 +312,7 @@ NAMANSOLOJAVA
 
 ## 🖥 화면
 
-### 🎬 인트로 애니메이션
+### 1. 인트로 애니메이션
 
 인트로 페이지 진입 시, 텍스트가 등장하며  
 로고로 자연스럽게 전환되는 감성 연출이 포함되어 있습니다.
@@ -323,7 +323,7 @@ NAMANSOLOJAVA
 > 인트로 페이지 진입 시, 텍스트가 등장하며 로고로 자연스럽게 전환되는 감성 연출이 포함되어 있습니다.
 
 
-### 🏠 **메인 페이지**
+### 2. 메인 페이지
 
 <img src="https://private-user-images.githubusercontent.com/185031810/443735881-e2ce8965-7ea4-403d-bb2d-d7e7168e6bd0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzcyODEsIm5iZiI6MTc0NzIzNjk4MSwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzM1ODgxLWUyY2U4OTY1LTdlYTQtNDAzZC1iYjJkLWQ3ZTcxNjhlNmJkMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNTM2MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZDJjMGU2OTkzYWFiMTQxNjJiODIzMDYzM2RjZDIzNmNiMWRkYzAxZWQwYjQ3OGQ1OWVlODM2MmJlMjA0MTg0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.c4rfpyyxcgvPKukKB6_MINy3ZD3DVBQnXiBB5D24MXk" width="600" height="700"><br/>
 
@@ -357,7 +357,7 @@ NAMANSOLOJAVA
   **사용자 접근성과 탐색 효율을 극대화**합니다.
 
   
-### 🖼️ 전체 앨범 페이지
+### 3. 전체 앨범 페이지
 
 <table>
   <tr>
@@ -378,7 +378,7 @@ NAMANSOLOJAVA
 
 ---
 
-### 📍 추천 여행지 페이지
+### 4. 추천 여행 페이지
 
 사용자는 지도에서 원하는 지역을 클릭하여 탐색을 시작할 수 있으며,  
 초기 상태에서는 기본 지도와 안내 메시지만 표시됩니다.
@@ -429,7 +429,7 @@ NAMANSOLOJAVA
 > **한 흐름으로 자연스럽게 연결되는 사용자 경험**을 제공하며,  
 > 서버 안정성과 조건부 렌더링을 통해 **동적인 구성과 응답성**을 최적화하였습니다.
 
-### 💌 마이페이지 & 캘린더 기능
+### 5. 마이페이지 & 캘린더 기능
 
 사용자 프로필을 클릭하면 마이페이지로 이동되며,  
 여기서는 커플의 기념일, 데이트 일정, 앨범, 팔로우 기능을 한 곳에서 확인하고 관리할 수 있습니다.
@@ -487,6 +487,36 @@ NAMANSOLOJAVA
 - 일정 → 상세 → 전체 보기 → 다시 기념일/데이트로 돌아가기까지  
   흐름이 자연스럽게 이어지도록 설계됨
 
+### 6. 선물 추천 & 실시간 알림 & AI 챗봇
+
+실시간 사용자 반응과 맞춤형 편의를 제공하기 위해  
+선물 추천 페이지에 다음과 같은 기능들을 통합 구현하였습니다.
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://private-user-images.githubusercontent.com/185031810/443754185-98e6bb87-15c5-45f3-b99d-99ddd0473b3a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyNDAxMDgsIm5iZiI6MTc0NzIzOTgwOCwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzU0MTg1LTk4ZTZiYjg3LTE1YzUtNDVmMy1iOTlkLTk5ZGRkMDQ3M2IzYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNjIzMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMmU3OWRiOTNkM2NlMjMzMTA1NTYwYmIwMjVmYTMyYjY0MGNhZTExMTA1OTQxOTZiOWRiNWFhOTliMWYzODA3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.28lWAQD-f98IIuy6-Ep826geYDs5Pdntj_SkmG0NO_w" width="100%"><br/>
+      <b>🎁 선물 랭킹 TOP10</b><br/>
+      - 네이버 쇼핑 OpenAPI를 사용하여<br/>
+      - 최신 인기 선물을 실시간으로 보여줍니다<br/>
+      - 성별별 추천 기능 (여성/남성 필터)
+    </td>
+    <td align="center" width="33%">
+      <img src="https://private-user-images.githubusercontent.com/185031810/443754181-c3354f3f-e189-4f83-84b6-ee143451cd9c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyNDAxMDgsIm5iZiI6MTc0NzIzOTgwOCwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzU0MTgxLWMzMzU0ZjNmLWUxODktNGY4My04NGI2LWVlMTQzNDUxY2Q5Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNjIzMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YjgzZmIzZjFkZjQyMmUyNDE5MmQ3OGNmNmFhN2VlMDI3ZWU3Y2I5YjQzNzBlYTRhMDMyODAwNWU1Njk4NDE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.uKLTMcNY-dSkbPqvcFyWgLD4-Js5ujQpl6Hr-vpUfPY" width="100%"><br/>
+      <b>🔔 실시간 알림</b><br/>
+      - WebSocket 기반 실시간 알림 구현<br/>
+      - 댓글/좋아요/팔로우/날씨까지 하나로 통합<br/>
+      - OpenWeather API로 날씨 정보도 함께 표시
+    </td>
+    <td align="center" width="33%">
+      <img src="https://private-user-images.githubusercontent.com/185031810/443754179-7b3fb23f-5e4e-4bbc-b44b-b4af6931d413.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyNDAxMDgsIm5iZiI6MTc0NzIzOTgwOCwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzU0MTc5LTdiM2ZiMjNmLTVlNGUtNGJiYy1iNDRiLWI0YWY2OTMxZDQxMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNjIzMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YjRkZDkwZDVkNjVjNzc0ODgwM2Y1YTYxNjdlMzYwNzJiYjQ1MGI3ZDk5ZTZhNzQ0NDVjYmNmMDhmMDRjMmI5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ESDThYVgo1cCSlXilMrY7RxeK8e3nsyzHyJ2q6fMp2U" width="100%"><br/>
+      <b>🤖 AI 챗봇</b><br/>
+      - HuggingFace AI API 기반 챗봇 연동<br/>
+      - "데이트 장소 추천" 등 실시간 대화 가능<br/>
+      - 직관적이고 친근한 대화 UX 제공
+    </td>
+  </tr>
+</table>
 
 
 ---
