@@ -265,17 +265,6 @@ NAMANSOLOJAVA
 
 ---
 
-## 👨‍👩‍👧‍👦 팀원 및 역할
-
-| 이름 | 역할 | 담당 내용 |
-|------|------|------------|
-| **남재우** | 팀장 / 프론트 | 조직 아키텍처 설계, 지도 기반 장소 추천 구현, 관리자 통계 UI, 인트로 UX |
-| **유서영** | 프론트 | 앨범형 UI 설계, 감성 카드 뷰 구현, 일정 캘린더 UX |
-| **오정재** | 백엔드 | // |
-| **강준우** | 백엔드 | // |
-
----
-
 ## 💬 개발 목표 및 방향성
 
 - 사용자에게 **감성적인 경험**을 제공하면서도,  
@@ -322,6 +311,41 @@ NAMANSOLOJAVA
 - Zustand를 활용한 전역 상태 관리
 - Styled-components로 페이지별 독립 디자인
 - `sessionStorage`를 통한 인증 정보 유지 및 로그인 처리
+
+---
+
+## 👥 팀원 소개
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="이미지_URL_1" width="120"><br/>
+      <b>남재우</b><br/>
+      팀장 / 프론트엔드<br/>
+      지도 추천 / 관리자 UI / 인트로 UX<br/>
+    </td>
+    <td align="center">
+      <img src="이미지_URL_2" width="120"><br/>
+      <b>유서영</b><br/>
+      프론트엔드<br/>
+      앨범 UI / DTO 구조 설계 / 기념일 UX<br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="이미지_URL_3" width="120"><br/>
+      <b>오정재</b><br/>
+      백엔드<br/>
+      콘솔 디버깅 / TO-DO 기능 / 공식 기념일<br/>
+    </td>
+    <td align="center">
+      <img src="이미지_URL_4" width="120"><br/>
+      <b>강준우</b><br/>
+      백엔드 / UI디자인<br/>
+      웹소켓 알림 / 프로필 / SQL 구성<br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
