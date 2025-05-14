@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-logo-image.png" width="180" />
-</p>
-
 <h1 align="center">💑 WE ARE</h1>
 <div align="center">
   
@@ -316,24 +312,182 @@ NAMANSOLOJAVA
 
 ## 🖥 화면
 
-## 🎬 인트로 애니메이션
+### 🎬 인트로 애니메이션
 
-<video width="320" height="auto" controls autoplay muted loop>
-  <source src="https://private-user-images.githubusercontent.com/185031810/443725210-257169c7-e171-4e1c-87b4-f3973a55b1c7.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzYwMzUsIm5iZiI6MTc0NzIzNTczNSwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzI1MjEwLTI1NzE2OWM3LWUxNzEtNGUxYy04N2I0LWYzOTczYTU1YjFjNy5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNTE1MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZjgzZmU2YzE1ZTg1Yzk3MWUxMDZkMGY4OWNkY2RjZmJiODRjOWFmZmJkMTU2NGU0MDk4MzE1Y2ZlYzBmMjQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.vujZM1807-LlTCoNwN_6zEOuiLb0i8ChxvagI1-Np4s" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+인트로 페이지 진입 시, 텍스트가 등장하며  
+로고로 자연스럽게 전환되는 감성 연출이 포함되어 있습니다.
+
+![인트로 애니메이션](https://private-user-images.githubusercontent.com/185031810/443730621-0360c959-e978-403b-b9b4-543613db8dc3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzY1MDUsIm5iZiI6MTc0NzIzNjIwNSwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzMwNjIxLTAzNjBjOTU5LWU5NzgtNDAzYi1iOWI0LTU0MzYxM2RiOGRjMy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNTIzMjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMDFmNGQxNjZlOTI1MGZhMDI4YmE0MzE2Y2QzNzdmNzdmNjMyNWFiNmRkMWEzYjFlYTM2NmU0MmI3MGFhMzJjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ruyd1cVJyyBQp5RvsWZCHkI7TU7Fmru85ZB_SpXGLnE)
+
 
 > 인트로 페이지 진입 시, 텍스트가 등장하며 로고로 자연스럽게 전환되는 감성 연출이 포함되어 있습니다.
 
 
+### 🏠 **메인 페이지**
+
+<img src="https://private-user-images.githubusercontent.com/185031810/443735881-e2ce8965-7ea4-403d-bb2d-d7e7168e6bd0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzcyODEsIm5iZiI6MTc0NzIzNjk4MSwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzM1ODgxLWUyY2U4OTY1LTdlYTQtNDAzZC1iYjJkLWQ3ZTcxNjhlNmJkMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNTM2MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZDJjMGU2OTkzYWFiMTQxNjJiODIzMDYzM2RjZDIzNmNiMWRkYzAxZWQwYjQ3OGQ1OWVlODM2MmJlMjA0MTg0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.c4rfpyyxcgvPKukKB6_MINy3ZD3DVBQnXiBB5D24MXk" width="600" height="700"><br/>
+
+인트로가 종료되면 감성적인 무드의 메인 페이지가 자연스럽게 등장합니다.  
+페이지 구성은 사용자 경험 중심으로 설계되어, 시각적 연출과 동선 흐름이 연결되도록 설계되어 있습니다.
+
+#### 감성 문구 + CTA 버튼
+
+- 메인 상단에는 사이트의 감성을 담은 문구와 함께  
+  주요 기능으로 향하는 CTA 버튼이 배치되어 있습니다.
+- 각 버튼은 문구의 의미와 기능에 맞춰 **정확한 페이지로 연결**됩니다.
+
+#### 앨범 섹션 (책장 넘기기 UX)
+
+- 다음 섹션에서는 **좌우 넘김 UI**를 활용해  
+  마치 책장을 넘기듯 앨범을 탐색할 수 있습니다.
+- 로그인 여부에 따라 '내 앨범' 또는 '전체 앨범'으로 라우팅이 분기되어  
+  사용자 맞춤형 동선을 제공합니다.
+
+#### 로티 애니메이션 + 슬라이드 구성
+
+- 이어지는 섹션에서는 **로티 애니메이션**과 함께  
+  슬라이드마다 텍스트와 모션이 동기화되어 등장합니다.
+- 사이트의 핵심 기능들을 시각적 몰입과 함께 **자연스럽게 전달**합니다.
+
+#### 기능 카드 (버블 애니메이션)
+
+- 마지막 섹션은 **버블 카드 형식**으로 구성되어 있으며,  
+  각 카드에는 시간차 애니메이션이 적용되어 **입체감 있는 연출**을 제공합니다.
+- 모든 카드는 주요 기능 페이지와 연결되어  
+  **사용자 접근성과 탐색 효율을 극대화**합니다.
+
+  
+### 🖼️ 전체 앨범 페이지
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://private-user-images.githubusercontent.com/185031810/443741373-4e1a76ea-34dc-4ca6-8e71-c4f960f6eb3d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzgwMjksIm5iZiI6MTc0NzIzNzcyOSwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzQxMzczLTRlMWE3NmVhLTM0ZGMtNGNhNi04ZTcxLWM0Zjk2MGY2ZWIzZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNTQ4NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYTZkNDczYzQwNGU1YzE2OWEwODM5MWU2MzRiZTI4MDdiZDQwMzIxOThjZmY4MTVlMDdlM2Q1NWVhMGI4ZDE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.SfEF3ZS97ZUlGoPTdVgBcMkMFwGFvnlYDk5Iv-ldZOk" width="100%"><br/>
+      <b>📂 전체 앨범 목록</b><br/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://private-user-images.githubusercontent.com/185031810/443741374-0066c7c6-39af-4a08-89ca-4b86aa38aff7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzgwMjksIm5iZiI6MTc0NzIzNzcyOSwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzQxMzc0LTAwNjZjN2M2LTM5YWYtNGEwOC04OWNhLTRiODZhYTM4YWZmNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNTQ4NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMTMwN2UzODBlMTZkY2JhZWJlZGUxNTBlYzliNWFjYzcwNWVkZDM1NGU1YjBhMjA3N2JjNzQ2YTEyNzMzOWI3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.hPpxrsGV8YxirMLuCcURaaQNJZ3pAIwd15QuKF-VTsE" width="100%"><br/>
+      <b>📸 앨범 상세 미리보기</b><br/>
+    </td>
+  </tr>
+</table>
+
+> 전체 앨범은 방문자가 쉽게 다양한 추억을 탐색할 수 있도록 구성되며,  
+> 감성적인 인터페이스와 반응형 레이아웃을 통해 몰입감을 제공합니다.
+
+
 ---
 
-> 🏠 **메인 페이지**
-인트로가 끝난 후,  
-감성 문구와 CTA 버튼이 등장하며  
-각 버튼은 기능별로 정확하게 이동하도록 설계되어 있습니다.
+### 📍 추천 여행지 페이지
 
-![메인 페이지](https://user-images.githubusercontent.com/너_URL2.png)
+사용자는 지도에서 원하는 지역을 클릭하여 탐색을 시작할 수 있으며,  
+초기 상태에서는 기본 지도와 안내 메시지만 표시됩니다.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://private-user-images.githubusercontent.com/185031810/443745576-8b3a48e9-ea2d-4e03-a622-dcd650c39250.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzg2NzAsIm5iZiI6MTc0NzIzODM3MCwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzQ1NTc2LThiM2E0OGU5LWVhMmQtNGUwMy1hNjIyLWRjZDY1MGMzOTI1MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNTU5MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zOGQ3ZjE3ODBhMDBmOTk1MTQ1ZjBiYjg1MTM2MjdjYmYzNDA0ZTQ2ZjM4ZDdjNDdjZDVmODAzYzNmOTk4ZjllJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.uYZkWRZcuNCa2cAhS8AXyH-VVb8sCuHmwdTGwil2qMc" width="100%"><br/>
+      <b>🗺️ 지역 선택 후 장소 리스트</b><br/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://private-user-images.githubusercontent.com/185031810/443745575-233bee92-70c7-4512-8f0a-f215cbe0b9b2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzg2NzAsIm5iZiI6MTc0NzIzODM3MCwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzQ1NTc1LTIzM2JlZTkyLTcwYzctNDUxMi04ZjBhLWYyMTVjYmUwYjliMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNTU5MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NWMwNjYyM2JjNzg4YmY0NzhkYjM0YzU0MmYzYTM1YTVhZTcxYzdkMzM5ZDI0MGY2ZWQyZGQ1ZjM4NDllMzdmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ENOQEujbGLY6uRDyapbRTVukeqO5DY-PPXVZpQBWjQM" width="100%"><br/>
+      <b>📌 장소 선택후 상세 모달</b><br/>
+    </td>
+  </tr>
+</table>
+
+
+#### 장소 리스트 + 카테고리 필터
+
+- 좌측 리스트는 카드 기반 UI로 구성되며,  
+  각 카드에는 장소명 / 썸네일 이미지 / 주소가 표시됩니다.
+- 상단에는 ‘맛집’, ‘호텔’, ‘포토존’ 등의 필터 버튼이 있어  
+  클릭 시 선택한 카테고리 기준으로 리스트가 필터링됩니다.
+- 장소 수가 많을 경우를 대비해 **6개 단위 페이징** 처리되며,  
+  '이전', '다음' 버튼을 통해 간편하게 탐색 가능합니다.
+
+
+#### 장소 상세 모달 + 관리자 권한 제어
+
+- 각 카드를 클릭하면 모달이 열리며,  
+  상세 설명 / 주소 / 이미지 슬라이더 등을 확인할 수 있습니다.
+- **관리자 권한**이 있을 경우,  
+  해당 모달 내에서 **수정/삭제 버튼**이 함께 노출됩니다.
+- 권한은 `Spring Security`를 활용한 **Role 기반 접근 제어**로 처리했습니다.
+
+
+#### 지도 보기 기능 (Google Maps API)
+
+- 모달 하단의 ‘지도 보기’ 버튼 클릭 시  
+  **구글 맵이 연동된 실제 위치 뷰**로 이동합니다.
+- UX 측면에서 **지도 중심 포커싱** 애니메이션을 적용하여  
+  부드럽게 사용자의 시선을 유도합니다.
+
+
+> 본 페이지는  
+> `지역 선택 → 장소 탐색 → 상세 보기 → 지도 확인`까지  
+> **한 흐름으로 자연스럽게 연결되는 사용자 경험**을 제공하며,  
+> 서버 안정성과 조건부 렌더링을 통해 **동적인 구성과 응답성**을 최적화하였습니다.
+
+### 💌 마이페이지 & 캘린더 기능
+
+사용자 프로필을 클릭하면 마이페이지로 이동되며,  
+여기서는 커플의 기념일, 데이트 일정, 앨범, 팔로우 기능을 한 곳에서 확인하고 관리할 수 있습니다.
+
+<!-- 첫 줄: 팔로우 / 앨범 -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://private-user-images.githubusercontent.com/185031810/443749946-7ad82eda-a486-45c2-86af-b761ce598bfd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzk4MzAsIm5iZiI6MTc0NzIzOTUzMCwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzQ5OTQ2LTdhZDgyZWRhLWE0ODYtNDVjMi04NmFmLWI3NjFjZTU5OGJmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNjE4NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNzE5YmQyMjQzOWFhMjcxZWJhZGU5OWY5ZmFhYTk0Zjc3NzE4ZmE4NTUyZjljYWM3YjkyN2I5NDUwZTU3NDRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.PX_6UGcAqPGdzkR-Nyd6jTsYJw5-YjfNcdn0I8edUng" width="100%"><br/>
+      <b>👥 팔로우 / 팔로잉</b><br/>
+      유저 간 팔로우/앨범 구독 기능<br/>
+      팔로우 요청 수락 및 취소 가능
+    </td>
+    <td align="center" width="50%">
+      <img src="https://private-user-images.githubusercontent.com/185031810/443749948-20ceaf62-194b-4991-a334-c93f35890e5b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzk4MzAsIm5iZiI6MTc0NzIzOTUzMCwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzQ5OTQ4LTIwY2VhZjYyLTE5NGItNDk5MS1hMzM0LWM5M2YzNTg5MGU1Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNjE4NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMjRjMWIzMzllZWYyMWUyZjVlYjFkMzhkZTM3OGZkN2ZmY2QyZjgwNWRkNjJjYzVmOTkzZDUyNWY4NGE2MWE1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.QgRqyq0hHLNncUiOruv2_JO-RZYs3KZcxKpOWFeV8BU" width="100%"><br/>
+      <b>📸 마 앨범 뷰</b><br/>
+      카드형 레이아웃, 최신순 / 좋아요순 / 댓글순 필터
+    </td>
+  </tr>
+</table>
+
+<!-- 두 번째 줄: 데이트 추가 / 기념일 보기 -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://private-user-images.githubusercontent.com/185031810/443749945-1237fbe3-937b-41f7-9176-eb17e3306300.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzk4MzAsIm5iZiI6MTc0NzIzOTUzMCwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzQ5OTQ1LTEyMzdmYmUzLTkzN2ItNDFmNy05MTc2LWViMTdlMzMwNjMwMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNjE4NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNmFjOGQyMGQ2NmY2NTFkNjFjM2NiMDc5MmNiMjE0MTc1MDAxZGEzY2QyMzNlNzkzMWQxNTYwNDEyYjg1ODRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.w5VYlglAjs9BXu2NlZ9uBOuXf-B4Z2wfeDJVI1lZ5VA" width="100%"><br/>
+      <b>🗓️ 데이트 일정 추가</b><br/>
+      기간형 일정 + 설명, 날짜, 색상 라벨, 사진 첨부
+    </td>
+    <td align="center" width="50%">
+      <img src="https://private-user-images.githubusercontent.com/185031810/443749947-7af6e69b-30d5-4e71-adfb-f0318ae9dbff.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzk4MzAsIm5iZiI6MTc0NzIzOTUzMCwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzQ5OTQ3LTdhZjZlNjliLTMwZDUtNGU3MS1hZGZiLWYwMzE4YWU5ZGJmZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNjE4NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NjllODYzMTc0M2MzNDA4NTViNjMxNjhhMjg5ZjFiMDY0NjhlYWFhNjFlMmZmMjQwMDBhN2ZmMjU2OGY5ZDlmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.AyETv5GROvkvVzWAGHOJUUBq0OYkyvPz3dZ7kk0Qzq0" width="100%"><br/>
+      <b>🎉 기념일 달력 보기</b><br/>
+      개인 / 공식 기념일 구분<br/>
+      D-Day 자동 계산 및 색상 분류
+    </td>
+  </tr>
+</table>
+
+#### 캘린더 기능 상세 설명
+
+- 기념일은 직접 등록할 수 있으며 날짜/내용/색상을 지정 가능  
+- 등록된 일정은 달력과 우측 '기념일란'에 함께 표시  
+- 기념일 중 일부는 '공식 기념일'로 읽기 전용으로만 표시됨
+
+#### 일정 추가/수정/삭제
+
+- 데이트 일정은 기간형 일정으로, 시작일~종료일 범위를 선택  
+- 설명 입력 및 사진 첨부 가능 (삭제도 가능)  
+- 종료일이 시작일보다 앞서면 경고창 발생
+- 등록된 일정은 수정, 삭제 모두 가능하며 `전체보기`에서 한 번에 관리 가능
+
+#### 동선과 UX 고려
+
+- 헤더의 유저 프로필 클릭 → 마이페이지 접근  
+- 일정 → 상세 → 전체 보기 → 다시 기념일/데이트로 돌아가기까지  
+  흐름이 자연스럽게 이어지도록 설계됨
+
+
 
 ---
 
@@ -371,7 +525,6 @@ NAMANSOLOJAVA
     </td>
   </tr>
 </table>
-
 
 ---
 
