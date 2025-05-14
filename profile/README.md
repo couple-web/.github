@@ -316,37 +316,37 @@ NAMANSOLOJAVA
 
 ## 👥 팀원 소개
 
+<h2>👥 팀원 소개</h2>
+
 <table>
   <tr>
-    <td align="center">
-      <img src="https://private-user-images.githubusercontent.com/185031810/443603814-54f6794b-d7c7-4cac-ab86-020606a99152.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMTczNDUsIm5iZiI6MTc0NzIxNzA0NSwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNjAzODE0LTU0ZjY3OTRiLWQ3YzctNGNhYy1hYjg2LTAyMDYwNmE5OTE1Mi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxMDA0MDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMTRmZDI4Yzg0OWJiZDNlNjVmMTRlZTM4NzM5NTk3NTViNTAyZjE4NzY0Y2E4MmVjZTFmY2RiMmMxNmYzYmQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.GU54A7iSFqLsSl-Ygf3D738BEsPUE2EIDs-tgtOmZyI" width="120"><br/>
+    <td align="center" width="180px">
+      <img src="https://user-images.githubusercontent.com/185031810/443603814-54f6794b-d7c7-4cac-ab86-020606a99152.jpg" width="100" height="120"><br/>
       <b>남재우</b><br/>
       팀장 / 프론트엔드<br/>
-      지도 추천 / 관리자 UI / 인트로 UX<br/>
-      <i>✨ 코드 즉석 요리사</i>
+      지도 추천<br/>
+      관리자 UI / 인트로 UX
     </td>
-    <td align="center">
-      <img src="이미지_URL_2" width="120"><br/>
+    <td align="center" width="180px">
+      <img src="이미지_URL_2" width="100" height="120"><br/>
       <b>유서영</b><br/>
       프론트엔드<br/>
-      앨범 UI / DTO 구조 설계 / 기념일 UX<br/>
-      <i>✨ 풀스택 결벽증</i>
+      앨범 UI / DTO 설계<br/>
+      기념일 UX
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="이미지_URL_3" width="120"><br/>
+    <td align="center" width="180px">
+      <img src="이미지_URL_3" width="100" height="120"><br/>
       <b>오정재</b><br/>
       백엔드<br/>
-      콘솔 디버깅 / TO-DO 기능 / 공식 기념일<br/>
-      <i>✨ 디버깅 사냥꾼</i>
+      콘솔 디버깅<br/>
+      TO-DO / 기념일 기능
     </td>
-    <td align="center">
-      <img src="이미지_URL_4" width="120"><br/>
+    <td align="center" width="180px">
+      <img src="이미지_URL_4" width="100" height="120"><br/>
       <b>강준우</b><br/>
-      백엔드 / UI디자인<br/>
-      웹소켓 알림 / 프로필 / SQL 구성<br/>
-      <i>✨ 감성 기능 장인</i>
+      백엔드 / UI 디자인<br/>
+      웹소켓 알림 / 프로필<br/>
+      SQL 구성
     </td>
   </tr>
 </table>
