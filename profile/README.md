@@ -316,20 +316,18 @@ NAMANSOLOJAVA
 
 ## 👥 팀원 소개
 
-<h2>👥 팀원 소개</h2>
-
 <table>
   <tr>
     <td align="center" width="180px">
-      <img src="https://user-images.githubusercontent.com/185031810/443603814-54f6794b-d7c7-4cac-ab86-020606a99152.jpg" width="100" height="120"><br/>
-      <b>남재우</b><br/>
+      <img src="https://private-user-images.githubusercontent.com/185031810/443603814-54f6794b-d7c7-4cac-ab86-020606a99152.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMTczNDUsIm5iZiI6MTc0NzIxNzA0NSwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNjAzODE0LTU0ZjY3OTRiLWQ3YzctNGNhYy1hYjg2LTAyMDYwNmE5OTE1Mi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxMDA0MDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMTRmZDI4Yzg0OWJiZDNlNjVmMTRlZTM4NzM5NTk3NTViNTAyZjE4NzY0Y2E4MmVjZTFmY2RiMmMxNmYzYmQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.GU54A7iSFqLsSl-Ygf3D738BEsPUE2EIDs-tgtOmZyI" width="120" height="120"><br/>
+      <b><a href="https://github.com/Dwsok472" target="_blank">남재우</a></b><br/>
       팀장 / 프론트엔드<br/>
       지도 추천<br/>
       관리자 UI / 인트로 UX
     </td>
     <td align="center" width="180px">
       <img src="이미지_URL_2" width="100" height="120"><br/>
-      <b>유서영</b><br/>
+      <b><a href="https://github.com/yooseoyoung" target="_blank">유서영</a></b><br/>
       프론트엔드<br/>
       앨범 UI / DTO 설계<br/>
       기념일 UX
