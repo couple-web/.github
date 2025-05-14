@@ -238,27 +238,27 @@ NAMANSOLOJAVA
 │   └── main
 │       ├── java
 │       │   └── com.dw.NAMANSOLOJAVA
-│       │       ├── chat            # 채팅 기능
-│       │       ├── Config          # CORS, WebSocket 등 설정 클래스
-│       │       ├── Controller      # REST API 컨트롤러
-│       │       ├── DTO             # 요청/응답 데이터 전송 객체
-│       │       ├── enums           # 열거형 클래스
-│       │       ├── Exception       # 커스텀 예외 처리
-│       │       ├── jwt             # JWT 인증 관련 로직
-│       │       ├── model           # Entity 정의
-│       │       ├── Repository      # JPA 인터페이스
-│       │       ├── Service         # 비즈니스 로직
-│       │       └── NAMANSOLOJAVAApplication  # 스프링 부트 메인 클래스
+│       │       ├── chat
+│       │       ├── Config
+│       │       ├── Controller
+│       │       ├── DTO
+│       │       ├── enums
+│       │       ├── Exception
+│       │       ├── jwt
+│       │       ├── model
+│       │       ├── Repository
+│       │       ├── Service
+│       │       └── NAMANSOLOJAVAApplication
 │       └── resources
-│           ├── application.properties  # 설정 파일
-│           └── data.sql                # 초기 데이터
-├── uploads                           # 업로드된 이미지 저장소
+│           ├── application.properties
+│           └── data.sql
+├── uploads
 ├── var
 │   ├── upload
-│   └── uploads                       # 파일 관리용 폴더
-├── rest api 명세서.xlsx             # API 명세 산출물
-├── pom.xml                           # Maven 프로젝트 설정 파일
-├── .env                              # 환경 변수 설정
+│   └── uploads
+├── rest api 명세서.xlsx
+├── pom.xml
+├── .env
 ├── .gitignore
 
 ```
