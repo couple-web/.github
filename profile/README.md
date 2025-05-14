@@ -180,7 +180,7 @@ WE ARE는 단순한 커플 다이어리나 메신저를 넘어서,
 2. [API 명세서 (PDF)](https://github.com/Dwsok472/NamanSOLO/blob/main/api%EB%AA%85%EC%84%B8%EC%84%9C.pdf)
 3. [와이어프레임 (Figma)](https://www.figma.com/design/KNSEuzmYAAMkwDF5MlgTV8/Untitled?node-id=0-1&t=ZF9OZGYEJrHVd5QG-1)
 4. [ER 다이어그램 (이미지)](https://raw.githubusercontent.com/couple-web/.github/main/ERD.png)
-
+5. [컴포넌트 명세서 (Figma)](https://www.figma.com/design/iNDzBBagw3jkQKrJD69gVv/%EB%82%98%EB%A7%8C%EC%86%94%EB%A1%9C%ED%8C%8)
 
 ---
 
@@ -228,6 +228,39 @@ NAMANSOLO
 │   ├── index.css
 │   └── main.js
 ├── .env
+```
+
+### 2. Backend
+
+```
+NAMANSOLOJAVA
+├── src
+│   └── main
+│       ├── java
+│       │   └── com.dw.NAMANSOLOJAVA
+│       │       ├── chat            # 채팅 기능
+│       │       ├── Config          # CORS, WebSocket 등 설정 클래스
+│       │       ├── Controller      # REST API 컨트롤러
+│       │       ├── DTO             # 요청/응답 데이터 전송 객체
+│       │       ├── enums           # 열거형 클래스
+│       │       ├── Exception       # 커스텀 예외 처리
+│       │       ├── jwt             # JWT 인증 관련 로직
+│       │       ├── model           # Entity 정의
+│       │       ├── Repository      # JPA 인터페이스
+│       │       ├── Service         # 비즈니스 로직
+│       │       └── NAMANSOLOJAVAApplication  # 스프링 부트 메인 클래스
+│       └── resources
+│           ├── application.properties  # 설정 파일
+│           └── data.sql                # 초기 데이터
+├── uploads                           # 업로드된 이미지 저장소
+├── var
+│   ├── upload
+│   └── uploads                       # 파일 관리용 폴더
+├── rest api 명세서.xlsx             # API 명세 산출물
+├── pom.xml                           # Maven 프로젝트 설정 파일
+├── .env                              # 환경 변수 설정
+├── .gitignore
+
 ```
 
 ---
