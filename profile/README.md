@@ -369,7 +369,8 @@ NAMANSOLOJAVA
 
 ### 2. 메인 페이지
 
-<img src="https://private-user-images.githubusercontent.com/185031810/443735881-e2ce8965-7ea4-403d-bb2d-d7e7168e6bd0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzcyODEsIm5iZiI6MTc0NzIzNjk4MSwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzM1ODgxLWUyY2U4OTY1LTdlYTQtNDAzZC1iYjJkLWQ3ZTcxNjhlNmJkMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNTM2MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZDJjMGU2OTkzYWFiMTQxNjJiODIzMDYzM2RjZDIzNmNiMWRkYzAxZWQwYjQ3OGQ1OWVlODM2MmJlMjA0MTg0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.c4rfpyyxcgvPKukKB6_MINy3ZD3DVBQnXiBB5D24MXk" width="600" height="700"><br/>
+<img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_%20(1).png" width="600" height="700" />
+
 
 인트로가 종료되면 감성적인 무드의 메인 페이지가 자연스럽게 등장합니다.  
 페이지 구성은 사용자 경험 중심으로 설계되어, 시각적 연출과 동선 흐름이 연결되도록 설계되어 있습니다.
@@ -406,15 +407,16 @@ NAMANSOLOJAVA
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://private-user-images.githubusercontent.com/185031810/443741373-4e1a76ea-34dc-4ca6-8e71-c4f960f6eb3d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzgwMjksIm5iZiI6MTc0NzIzNzcyOSwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzQxMzczLTRlMWE3NmVhLTM0ZGMtNGNhNi04ZTcxLWM0Zjk2MGY2ZWIzZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNTQ4NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYTZkNDczYzQwNGU1YzE2OWEwODM5MWU2MzRiZTI4MDdiZDQwMzIxOThjZmY4MTVlMDdlM2Q1NWVhMGI4ZDE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.SfEF3ZS97ZUlGoPTdVgBcMkMFwGFvnlYDk5Iv-ldZOk" width="100%"><br/>
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_album_all.png" width="100%"><br/>
       <b>📂 전체 앨범 목록</b><br/>
     </td>
     <td align="center" width="50%">
-      <img src="https://private-user-images.githubusercontent.com/185031810/443757369-ba521b41-f132-4a8f-9e33-3b6c6e231c12.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyNDA2NjksIm5iZiI6MTc0NzI0MDM2OSwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzU3MzY5LWJhNTIxYjQxLWYxMzItNGE4Zi05ZTMzLTNiNmM2ZTIzMWMxMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNjMyNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYjU0YzIxYzUzYTRjM2UyNDUwNzljNTg5NGFjN2Y0MmQwZWE3ZGRhODE5Njc0MTZjYmQ5YWRmZjhkOTZjMzNhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.FFRpXTAgji1dugMU5k_iHy9jPiCdQZ369gxKovKei7E" width="100%"><br/>
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_album_all (1).png" width="100%"><br/>
       <b>📸 앨범 상세 미리보기</b><br/>
     </td>
   </tr>
 </table>
+
 
 > 전체 앨범은 방문자가 쉽게 다양한 추억을 탐색할 수 있도록 구성되며,  
 > 감성적인 인터페이스와 반응형 레이아웃을 통해 몰입감을 제공합니다.
