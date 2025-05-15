@@ -432,15 +432,16 @@ NAMANSOLOJAVA
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://private-user-images.githubusercontent.com/185031810/443745576-8b3a48e9-ea2d-4e03-a622-dcd650c39250.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzg2NzAsIm5iZiI6MTc0NzIzODM3MCwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzQ1NTc2LThiM2E0OGU5LWVhMmQtNGUwMy1hNjIyLWRjZDY1MGMzOTI1MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNTU5MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zOGQ3ZjE3ODBhMDBmOTk1MTQ1ZjBiYjg1MTM2MjdjYmYzNDA0ZTQ2ZjM4ZDdjNDdjZDVmODAzYzNmOTk4ZjllJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.uYZkWRZcuNCa2cAhS8AXyH-VVb8sCuHmwdTGwil2qMc" width="100%"><br/>
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_map.png" width="100%"><br/>
       <b>🗺️ 지역 선택 후 장소 리스트</b><br/>
     </td>
     <td align="center" width="50%">
-      <img src="https://private-user-images.githubusercontent.com/185031810/443745575-233bee92-70c7-4512-8f0a-f215cbe0b9b2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzg2NzAsIm5iZiI6MTc0NzIzODM3MCwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzQ1NTc1LTIzM2JlZTkyLTcwYzctNDUxMi04ZjBhLWYyMTVjYmUwYjliMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNTU5MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NWMwNjYyM2JjNzg4YmY0NzhkYjM0YzU0MmYzYTM1YTVhZTcxYzdkMzM5ZDI0MGY2ZWQyZGQ1ZjM4NDllMzdmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ENOQEujbGLY6uRDyapbRTVukeqO5DY-PPXVZpQBWjQM" width="100%"><br/>
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_map%20(1).png" width="100%"><br/>
       <b>📌 장소 선택후 상세 모달</b><br/>
     </td>
   </tr>
 </table>
+
 
 
 #### 장소 리스트 + 카테고리 필터
@@ -480,18 +481,18 @@ NAMANSOLOJAVA
 사용자 프로필을 클릭하면 마이페이지로 이동되며,  
 여기서는 커플의 기념일, 데이트 일정, 앨범, 팔로우 기능을 한 곳에서 확인하고 관리할 수 있습니다.
 
-<!-- 첫 줄: 팔로우 / 앨범 -->
+<!-- 첫 번째 줄: 팔로우 / 앨범 뷰 -->
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://private-user-images.githubusercontent.com/185031810/443749946-7ad82eda-a486-45c2-86af-b761ce598bfd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzk4MzAsIm5iZiI6MTc0NzIzOTUzMCwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzQ5OTQ2LTdhZDgyZWRhLWE0ODYtNDVjMi04NmFmLWI3NjFjZTU5OGJmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNjE4NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNzE5YmQyMjQzOWFhMjcxZWJhZGU5OWY5ZmFhYTk0Zjc3NzE4ZmE4NTUyZjljYWM3YjkyN2I5NDUwZTU3NDRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.PX_6UGcAqPGdzkR-Nyd6jTsYJw5-YjfNcdn0I8edUng" width="100%"><br/>
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_mypage_follow.png" width="100%"><br/>
       <b>👥 팔로우 / 팔로잉</b><br/>
       유저 간 팔로우/앨범 구독 기능<br/>
       팔로우 요청 수락 및 취소 가능
     </td>
     <td align="center" width="50%">
-      <img src="https://private-user-images.githubusercontent.com/185031810/443749948-20ceaf62-194b-4991-a334-c93f35890e5b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzk4MzAsIm5iZiI6MTc0NzIzOTUzMCwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzQ5OTQ4LTIwY2VhZjYyLTE5NGItNDk5MS1hMzM0LWM5M2YzNTg5MGU1Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNjE4NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMjRjMWIzMzllZWYyMWUyZjVlYjFkMzhkZTM3OGZkN2ZmY2QyZjgwNWRkNjJjYzVmOTkzZDUyNWY4NGE2MWE1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.QgRqyq0hHLNncUiOruv2_JO-RZYs3KZcxKpOWFeV8BU" width="100%"><br/>
-      <b>📸 마 앨범 뷰</b><br/>
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_mypage_album.png" width="100%"><br/>
+      <b>📸 마이 앨범 뷰</b><br/>
       카드형 레이아웃, 최신순 / 좋아요순 / 댓글순 필터
     </td>
   </tr>
@@ -501,18 +502,19 @@ NAMANSOLOJAVA
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://private-user-images.githubusercontent.com/185031810/443749945-1237fbe3-937b-41f7-9176-eb17e3306300.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzk4MzAsIm5iZiI6MTc0NzIzOTUzMCwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzQ5OTQ1LTEyMzdmYmUzLTkzN2ItNDFmNy05MTc2LWViMTdlMzMwNjMwMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNjE4NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNmFjOGQyMGQ2NmY2NTFkNjFjM2NiMDc5MmNiMjE0MTc1MDAxZGEzY2QyMzNlNzkzMWQxNTYwNDEyYjg1ODRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.w5VYlglAjs9BXu2NlZ9uBOuXf-B4Z2wfeDJVI1lZ5VA" width="100%"><br/>
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_mypage_todo%20(1).png" width="100%"><br/>
       <b>🗓️ 데이트 일정 추가</b><br/>
       기간형 일정 + 설명, 날짜, 색상 라벨, 사진 첨부
     </td>
     <td align="center" width="50%">
-      <img src="https://private-user-images.githubusercontent.com/185031810/443749947-7af6e69b-30d5-4e71-adfb-f0318ae9dbff.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzk4MzAsIm5iZiI6MTc0NzIzOTUzMCwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzQ5OTQ3LTdhZjZlNjliLTMwZDUtNGU3MS1hZGZiLWYwMzE4YWU5ZGJmZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNjE4NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NjllODYzMTc0M2MzNDA4NTViNjMxNjhhMjg5ZjFiMDY0NjhlYWFhNjFlMmZmMjQwMDBhN2ZmMjU2OGY5ZDlmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.AyETv5GROvkvVzWAGHOJUUBq0OYkyvPz3dZ7kk0Qzq0" width="100%"><br/>
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_mypage_todo.png" width="100%"><br/>
       <b>🎉 기념일 달력 보기</b><br/>
       개인 / 공식 기념일 구분<br/>
       D-Day 자동 계산 및 색상 분류
     </td>
   </tr>
 </table>
+
 
 #### 캘린더 기능 상세 설명
 
@@ -541,21 +543,21 @@ NAMANSOLOJAVA
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://private-user-images.githubusercontent.com/185031810/443754185-98e6bb87-15c5-45f3-b99d-99ddd0473b3a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyNDAxMDgsIm5iZiI6MTc0NzIzOTgwOCwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzU0MTg1LTk4ZTZiYjg3LTE1YzUtNDVmMy1iOTlkLTk5ZGRkMDQ3M2IzYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNjIzMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMmU3OWRiOTNkM2NlMjMzMTA1NTYwYmIwMjVmYTMyYjY0MGNhZTExMTA1OTQxOTZiOWRiNWFhOTliMWYzODA3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.28lWAQD-f98IIuy6-Ep826geYDs5Pdntj_SkmG0NO_w" width="100%"><br/>
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_events.png" width="100%"><br/>
       <b>🎁 선물 랭킹 TOP10</b><br/>
       - 네이버 쇼핑 OpenAPI를 사용하여<br/>
       - 최신 인기 선물을 실시간으로 보여줍니다<br/>
       - 성별별 추천 기능 (여성/남성 필터)
     </td>
     <td align="center" width="33%">
-      <img src="https://private-user-images.githubusercontent.com/185031810/443754181-c3354f3f-e189-4f83-84b6-ee143451cd9c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyNDAxMDgsIm5iZiI6MTc0NzIzOTgwOCwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzU0MTgxLWMzMzU0ZjNmLWUxODktNGY4My04NGI2LWVlMTQzNDUxY2Q5Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNjIzMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YjgzZmIzZjFkZjQyMmUyNDE5MmQ3OGNmNmFhN2VlMDI3ZWU3Y2I5YjQzNzBlYTRhMDMyODAwNWU1Njk4NDE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.uKLTMcNY-dSkbPqvcFyWgLD4-Js5ujQpl6Hr-vpUfPY" width="100%"><br/>
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_events%20(1).png" width="100%"><br/>
       <b>🔔 실시간 알림</b><br/>
       - WebSocket 기반 실시간 알림 구현<br/>
       - 댓글/좋아요/팔로우/날씨까지 하나로 통합<br/>
       - OpenWeather API로 날씨 정보도 함께 표시
     </td>
     <td align="center" width="33%">
-      <img src="https://private-user-images.githubusercontent.com/185031810/443754179-7b3fb23f-5e4e-4bbc-b44b-b4af6931d413.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyNDAxMDgsIm5iZiI6MTc0NzIzOTgwOCwicGF0aCI6Ii8xODUwMzE4MTAvNDQzNzU0MTc5LTdiM2ZiMjNmLTVlNGUtNGJiYy1iNDRiLWI0YWY2OTMxZDQxMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQxNjIzMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YjRkZDkwZDVkNjVjNzc0ODgwM2Y1YTYxNjdlMzYwNzJiYjQ1MGI3ZDk5ZTZhNzQ0NDVjYmNmMDhmMDRjMmI5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ESDThYVgo1cCSlXilMrY7RxeK8e3nsyzHyJ2q6fMp2U" width="100%"><br/>
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_events%20(2).png" width="100%"><br/>
       <b>🤖 AI 챗봇</b><br/>
       - HuggingFace AI API 기반 챗봇 연동<br/>
       - "데이트 장소 추천" 등 실시간 대화 가능<br/>
