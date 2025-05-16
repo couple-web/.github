@@ -439,7 +439,6 @@ NAMANSOLOJAVA
       기간형 일정 조회<br/>
       설명/날짜/색상 라별 사진 첨부 기능<br/>
       마지막일 : 시작일 이전 날짜 제한
-
     </td>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_mypage_todo.png" width="100%"><br/>
