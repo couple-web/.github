@@ -462,7 +462,7 @@ NAMANSOLOJAVA
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_events%20(2).png" width="100%"><br/>
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/images/ezgif.com-video-to-gif-converter.gif" width="100%"><br/>
       <b>🤖 실시간 알람 전송</b><br/>
       HuggingFace AI API 기반 챗봇 연동<br/>
       "데이트 장소 추천" 등 실시간 대화 가능<br/>
