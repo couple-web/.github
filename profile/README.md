@@ -181,6 +181,7 @@ WE ARE는 단순한 커플 다이어리나 메신저를 넘어서,
 3. [와이어프레임 (Figma)](https://www.figma.com/design/KNSEuzmYAAMkwDF5MlgTV8/Untitled?node-id=0-1&t=ZF9OZGYEJrHVd5QG-1)
 4. [ERD 다이어그램 (이미지)](https://raw.githubusercontent.com/couple-web/.github/main/ERD.png)
 5. [컴포넌트 명세서 (Figma)](https://www.figma.com/design/iNDzBBagw3jkQKrJD69gVv/%EB%82%98%EB%A7%8C%EC%86%94%EB%A1%9C%ED%8C%8)
+6. [프로젝트 PPT(Canva)](https://www.canva.com/design/DAGln_TjWLg/eJiyxtflh2uCZNtgm2XO2Q/view?utm_content=DAGln_TjWLg&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel)
 
 ---
 
