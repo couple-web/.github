@@ -170,6 +170,8 @@ WE ARE는 단순한 커플 다이어리나 메신저를 넘어서,
 <p align="center">
    <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/images/arch.png" >
 </p>
+
+
 ---
 
 ## 📄 산출물
