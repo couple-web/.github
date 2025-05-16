@@ -357,7 +357,7 @@ NAMANSOLOJAVA
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/images/mainpage_converted.gif" width="100%"><br/>
       <b>✨ 메인 페이지</b><br/>
        사용자 맞춤형 동선 제공<br/>
-      LOTTIE 애니메이션 활용<br/>
+      LOTTIE 애니메이션을 활용하여 기능 설명<br/>
       핵심 기능 페이지 연계
     </td>
   </tr>
