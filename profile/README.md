@@ -486,6 +486,29 @@ NAMANSOLOJAVA
   </tr>
 </table>
 
+### 7. 관리자 페이지
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/images/localhost_5173_admin_users.png" width="100%"><br/>
+      <b>📊 유저 정보 및 가입 통계</b><br/>
+      - 일별 유저 가입 추이를 차트로 시각화<br/>
+      - 전체 유저 목록 조회 기능 제공<br/>
+      - 목표 가입자 수 대비 현재 가입자 수 확인 가능<br/>
+      - 유저 검색 기능 및 정렬 가능
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/images/localhost_5173_admin_feeds.png" width="100%"><br/>
+      <b>📁 앨범 업로드 및 활동 통계</b><br/>
+      - 월별 앨범 업로드 현황을 유저별로 시각화<br/>
+      - 일별 앨범 생성 비율 그래프로 확인 가능<br/>
+      - 유저별 마지막 활동일 통계 표시<br/>
+      - 평균 활동 일자 지표를 통해 사용자 활발도 파악
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ## 👥 팀원 소개
