@@ -334,29 +334,25 @@ NAMANSOLOJAVA
 
 ## 🖥 화면
 
-### 1. 인트로 애니메이션
+### 1. 인트로 및 메인 페이지
 
-인트로 페이지 진입 시, 텍스트가 등장하며  
-로고로 자연스럽게 전환되는 감성 연출이 포함되어 있습니다.
-
-![인트로 애니메이션](https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/Loom_FreeScreenVideoRecordingSoftware-14May2025-ezgif.com-video-to-gif-converter.gif)
-
-
-> 인트로 페이지 진입 시, 텍스트가 등장하며 로고로 자연스럽게 전환되는 감성 연출이 포함되어 있습니다.
-
-
-### 2. 메인 페이지
-
-<img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_%20(1).png" width="600" height="700" />
-
-
->인트로가 종료되면 감성적인 무드의 메인 페이지가 자연스럽게 등장합니다.  
->페이지 구성은 사용자 경험 중심으로 설계되어, 시각적 연출과 동선 흐름이 연결되도록 설계되어 있습니다.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_album_all.png" width="100%"><br/>
+      <b>🌞 인트로 애니메이션</b><br/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_album_all (1).png" width="100%"><br/>
+      <b>✨ 메인 페이지</b><br/>
+    </td>
+  </tr>
+</table>
 
 
 
   
-### 3. 전체 앨범 페이지
+### 2. 전체 앨범 페이지
 
 <table>
   <tr>
@@ -372,15 +368,7 @@ NAMANSOLOJAVA
 </table>
 
 
-> 전체 앨범은 방문자가 쉽게 다양한 추억을 탐색할 수 있도록 구성되며,  
-> 감성적인 인터페이스와 반응형 레이아웃을 통해 몰입감을 제공합니다.
-
-
-
-### 4. 추천 여행 페이지
-
-사용자는 지도에서 원하는 지역을 클릭하여 탐색을 시작할 수 있으며,  
-초기 상태에서는 기본 지도와 안내 메시지만 표시됩니다.
+### 3. 추천 여행 페이지
 
 <table>
   <tr>
@@ -397,10 +385,6 @@ NAMANSOLOJAVA
 
 ### 5. 마이페이지 & 캘린더 기능
 
-사용자 프로필을 클릭하면 마이페이지로 이동되며,  
-여기서는 커플의 기념일, 데이트 일정, 앨범, 팔로우 기능을 한 곳에서 확인하고 관리할 수 있습니다.
-
-<!-- 첫 번째 줄: 팔로우 / 앨범 뷰 -->
 <table>
   <tr>
     <td align="center" width="50%">
@@ -435,40 +419,18 @@ NAMANSOLOJAVA
 </table>
 
 
-#### 캘린더 기능 상세 설명
-
-- 기념일은 직접 등록할 수 있으며 날짜/내용/색상을 지정 가능  
-- 등록된 일정은 달력과 우측 '기념일란'에 함께 표시  
-- 기념일 중 일부는 '공식 기념일'로 읽기 전용으로만 표시됨
-
-#### 일정 추가/수정/삭제
-
-- 데이트 일정은 기간형 일정으로, 시작일~종료일 범위를 선택  
-- 설명 입력 및 사진 첨부 가능 (삭제도 가능)  
-- 종료일이 시작일보다 앞서면 경고창 발생
-- 등록된 일정은 수정, 삭제 모두 가능하며 `전체보기`에서 한 번에 관리 가능
-
-#### 동선과 UX 고려
-
-- 헤더의 유저 프로필 클릭 → 마이페이지 접근  
-- 일정 → 상세 → 전체 보기 → 다시 기념일/데이트로 돌아가기까지  
-  흐름이 자연스럽게 이어지도록 설계됨
-
-### 6. 선물 추천 & 실시간 알림 & AI 챗봇
-
-실시간 사용자 반응과 맞춤형 편의를 제공하기 위해  
-선물 추천 페이지에 다음과 같은 기능들을 통합 구현하였습니다.
+### 6. 선물 추천& AI 챗봇
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_events.png" width="100%"><br/>
       <b>🎁 선물 랭킹 TOP10</b><br/>
       - 네이버 쇼핑 OpenAPI를 사용하여<br/>
       - 최신 인기 선물을 실시간으로 보여줍니다<br/>
       - 성별별 추천 기능 (여성/남성 필터)
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_events%20(1).png" width="100%"><br/>
       <b>🔔 실시간 알림</b><br/>
       - WebSocket 기반 실시간 알림 구현<br/>
@@ -485,12 +447,31 @@ NAMANSOLOJAVA
   </tr>
 </table>
 
+### 6. 실시간 알람
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_events%20(2).png" width="100%"><br/>
+      <b>🤖 실시간 알람 전송</b><br/>
+      HuggingFace AI API 기반 챗봇 연동<br/>
+      "데이트 장소 추천" 등 실시간 대화 가능<br/>
+      직관적이고 친근한 대화 UX 제공
+    </td>
+      <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_events%20(2).png" width="100%"><br/>
+      <b>🤖 실시간 알람 수락</b><br/>
+      HuggingFace AI API 기반 챗봇 연동<br/>
+      "데이트 장소 추천" 등 실시간 대화 가능<br/>
+      직관적이고 친근한 대화 UX 제공
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 👥 팀원 소개
 
-<table>
+<table align="center">
   <tr>
       <td align="center" width="180px">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/images/resume.jpg" width="120" height="120"><br/>
