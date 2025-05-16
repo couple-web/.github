@@ -349,9 +349,9 @@ NAMANSOLOJAVA
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/images/intro_converted.gif" width="100%"><br/>
       <b>🌞 인트로 애니메이션</b><br/>
-     -- <br/>
-     --<br/>
-      --
+     동적 좌표 기반 로고 이동 연출<br/>
+     컴포넌트 분리 + 조건부 렌더링<br/>
+     로딩 후 메인 UI와 자연스럽게 전환
     </td>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/images/mainpage_converted.gif" width="100%"><br/>
@@ -483,7 +483,7 @@ NAMANSOLOJAVA
       OPENWEATHER API로 날씨 정보 표시
     </td>
       <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_events%20(2).png" width="100%"><br/>
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/images/admin_page_clean.gif" width="100%"><br/>
       <b>📊 관리자 페이지</b><br/>
       패턴 인지에 최적화된 시각적 정보 전달<br/>
      정보 중심 시각화에 초점<br/>
