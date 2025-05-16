@@ -340,14 +340,10 @@ NAMANSOLOJAVA
 프로젝트는 기능 단위로 모듈화된 컴포넌트 중심으로 구성되어 있으며,  
 화면별로 역할이 분리되어 유지보수성과 재사용성을 높였습니다.
 
-- ✅ **인트로 페이지**: `Intro`, `LogoMotion`, `AnimatedText`
 - ✅ **메인 구조**: `MainPage`, `Header`, `Footer`, `SlideMenu`
 - ✅ **장소 추천 기능**: `MapPicker`, `PlaceCard`, `CategoryFilter`, `PlaceForm`
 - ✅ **앨범 (기록 기능)**: `AlbumPage`, `CardItem`, `AlbumModal`, `AlbumFilter`
-- ✅ **마이페이지 기능**: `Calendar`, `ToDoList`, `AnniversaryList`, `FollowList`
-- ✅ **알림 시스템**: `AlarmList`, `AlarmItem`, `WebSocketHandler`, `WeatherAPI`
-- ✅ **AI 챗봇**: `ChatBot`, `ChatInput`, `ChatMessage`
-- ✅ **관리자 대시보드**: `AdminDashboard`, `ChartSection`, `UserStatChart`, `StatBox`
+- ✅ **캘린더 기능**: `Calendar`, `ToDoList`, `AnniversaryList`, `FollowList`
 
 
 - Zustand를 활용한 전역 상태 관리
