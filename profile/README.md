@@ -456,8 +456,8 @@ NAMANSOLOJAVA
       성별별 추천 기능 (여성/남성 필터)
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/c.png" width="100%"><br/>
-      <b>🔔 AI 데이트 장소 추천</b><br/>
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/cc.png" width="100%"><br/>
+      <b>🤖 AI 데이트 장소 추천</b><br/>
       WebSocket 기반 실시간 알림 구현<br/>
       댓글/좋아요/팔로우/날씨까지 하나로 통합<br/>
       OpenWeather API로 날씨 정보도 함께 표시
@@ -470,14 +470,14 @@ NAMANSOLOJAVA
   <tr>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/images/ezgif.com-video-to-gif-converter.gif" width="100%"><br/>
-      <b>🤖 실시간 알람 전송</b><br/>
+      <b>🔔 실시간 알람 전송</b><br/>
       HuggingFace AI API 기반 챗봇 연동<br/>
       "데이트 장소 추천" 등 실시간 대화 가능<br/>
       직관적이고 친근한 대화 UX 제공
     </td>
       <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_events%20(2).png" width="100%"><br/>
-      <b>🤖 실시간 알람 수락</b><br/>
+      <b>🔔 실시간 알람 수락</b><br/>
       HuggingFace AI API 기반 챗봇 연동<br/>
       "데이트 장소 추천" 등 실시간 대화 가능<br/>
       직관적이고 친근한 대화 UX 제공
