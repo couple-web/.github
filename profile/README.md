@@ -347,7 +347,7 @@ NAMANSOLOJAVA
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_album_all.png" width="100%"><br/>
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/Loom_FreeScreenVideoRecordingSoftware-14May2025-ezgif.com-video-to-gif-converter.gif" width="100%"><br/>
       <b>🌞 인트로 애니메이션</b><br/>
        WebSocket 기반 실시간 알림 구현<br/>
       댓글/좋아요/팔로우/날씨까지 하나로 통합<br/>
@@ -457,7 +457,7 @@ NAMANSOLOJAVA
       성별별 추천 기능 (여성/남성 필터)
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/cc.png" width="100%"><br/>
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/cc.png" width="100%" height="275px"><br/>
       <b>🤖 AI 데이트 장소 추천</b><br/>
       WebSocket 기반 실시간 알림 구현<br/>
       댓글/좋아요/팔로우/날씨까지 하나로 통합<br/>
