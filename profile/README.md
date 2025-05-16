@@ -487,30 +487,29 @@ NAMANSOLOJAVA
       <td align="center" width="180px">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/images/resume.jpg" width="120" height="120"><br/>
       <b><a href="https://github.com/Dwsok472" target="_blank">남재우</a></b><br/>
-      팀장 / 프론트엔드<br/>
-      지도 추천<br/>
-      관리자 UI / 인트로 UX
+      프로필/ 웹소켓 기능<br/>
+      장소 추천 기능<br/>       
+      관리자 기능/인트로
     </td>
     <td align="center" width="180px">
       <img src="이미지_URL_2" width="100" height="120"><br/>
       <b><a href="https://github.com/yooseoyoung" target="_blank">유서영</a></b><br/>
-      프론트엔드<br/>
-      앨범 UI / DTO 설계<br/>
-      기념일 UX
+      즐겨찾기/댓글/팔로우 <br/>
+      앨범 기능 <br/>
+      DTO 설계 
     </td>
     <td align="center" width="180px">
       <img src="이미지_URL_3" width="100" height="120"><br/>
       <b>오정재</b><br/>
-      백엔드<br/>
+      ERD 구조 설계<br/>
       콘솔 디버깅<br/>
-      TO-DO / 기념일 기능
+      TO-DO/기념일 기능
     </td>
     <td align="center" width="180px">
       <img src="이미지_URL_4" width="100" height="120"><br/>
       <b>강준우</b><br/>
-      백엔드 / UI 디자인<br/>
-      웹소켓 알림 / 프로필<br/>
-      SQL 구성
+       UI 디자인<br/>
+        SQL 구성
     </td>
   </tr>
 </table>
