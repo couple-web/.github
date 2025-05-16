@@ -1,4 +1,4 @@
-<h1 align="center">💑 WE ARE</h1>
+  <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/LOGO.png" width="100%">
 <div align="center">
   
   <!-- 🧑‍💻 Front-End -->
