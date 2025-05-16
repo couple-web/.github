@@ -38,7 +38,7 @@
   - 📍 [추천 여행지](#추천-여행지)
   - 💌 [마이페이지 & 캘린더](#마이페이지--캘린더)
   - 🎁 [선물 추천 & AI 챗봇](#선물-추천)
-  - 🔔 [알람](#알림)
+  - 🔔 [실시간 알림 및 관리자 페이지](#알림)
 - 👥 [7. 팀원 소개](#7-팀원-소개)
 
 ---
@@ -349,16 +349,16 @@ NAMANSOLOJAVA
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/images/intro_converted.gif" width="100%"><br/>
       <b>🌞 인트로 애니메이션</b><br/>
-       WebSocket 기반 실시간 알림 구현<br/>
-      댓글/좋아요/팔로우/날씨까지 하나로 통합<br/>
-      OpenWeather API로 날씨 정보도 함께 표시
+     -- <br/>
+     --<br/>
+      --
     </td>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/images/mainpage_converted.gif" width="100%"><br/>
       <b>✨ 메인 페이지</b><br/>
-       WebSocket 기반 실시간 알림 구현<br/>
-      댓글/좋아요/팔로우/날씨까지 하나로 통합<br/>
-      OpenWeather API로 날씨 정보도 함께 표시
+       사용자 맞춤형 동선 제공<br/>
+      LOTTIE 애니메이션 활용<br/>
+      핵심 기능 페이지 연계
     </td>
   </tr>
 </table>
@@ -373,16 +373,16 @@ NAMANSOLOJAVA
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/images/album2_converted.gif" width="100%"><br/>
       <b>📂 전체 앨범 목록</b><br/>
-       WebSocket 기반 실시간 알림 구현<br/>
-      댓글/좋아요/팔로우/날씨까지 하나로 통합<br/>
-      OpenWeather API로 날씨 정보도 함께 표시
+      사용자 선호도에 맞춘 필터링<br/>
+      USER 검색 기능을 통한 편의성<br/>
+      한 페이지당 10개 제한
     </td>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/images/albumdetail_converted.gif" width="100%"><br/>
       <b>📸 앨범 상세 미리보기</b><br/>
-       WebSocket 기반 실시간 알림 구현<br/>
-      댓글/좋아요/팔로우/날씨까지 하나로 통합<br/>
-      OpenWeather API로 날씨 정보도 함께 표시
+      댓글 및 대댓글 작성 기능<br/>
+     좋아요 및 즐겨찾기 기능<br/>
+     IMG+VIDEO 동시 조회
     </td>
   </tr>
 </table>
@@ -395,16 +395,16 @@ NAMANSOLOJAVA
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/images/map_converted.gif" width="100%"><br/>
       <b>🗺️ 지역 선택 후 장소 리스트</b><br/>
-      WebSocket 기반 실시간 알림 구현<br/>
-      댓글/좋아요/팔로우/날씨까지 하나로 통합<br/>
-      OpenWeather API로 날씨 정보도 함께 표시
+      MAP PICKER 클릭 기능<br/>
+      지역별 /카테고리별 장소 추천<br/>
+      관리자 권한 CRUD 탑재
     </td>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/images/mapdetail_converted.gif" width="100%"><br/>
       <b>📌 장소 선택후 상세 모달</b><br/>
-      WebSocket 기반 실시간 알림 구현<br/>
-      댓글/좋아요/팔로우/날씨까지 하나로 통합<br/>
-      OpenWeather API로 날씨 정보도 함께 표시
+      GOOGLE MAP API를 통한 지도 조회<br/>
+      사용자 편의성을 위한 FOCUS 기능<br/>
+      상세 설명 조회
     </td>
   </tr>
 </table>
@@ -417,12 +417,15 @@ NAMANSOLOJAVA
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_mypage_follow.png" width="100%"><br/>
       <b>👥 팔로우 / 팔로잉</b><br/>
       유저 간 팔로우/앨범 구독 기능<br/>
-      팔로우 요청 수락 및 취소 가능
+      팔로우 요청 수락 및 취소 가능<br/>
+      목록별 유저 검색 기능
     </td>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_mypage_album.png" width="100%"><br/>
       <b>📸 마이 앨범 뷰</b><br/>
-      카드형 레이아웃, 최신순 / 좋아요순 / 댓글순 필터
+      사용자 편의성을 위한 열 선택<br/>
+      비공개 설정 앨범 조회<br/>
+      드래그 삭제 기능을 통한 재미요소
     </td>
   </tr>
 </table>
@@ -433,13 +436,17 @@ NAMANSOLOJAVA
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_mypage_todo%20(1).png" width="100%"><br/>
       <b>🗓️ 데이트 일정 추가</b><br/>
-      기간형 일정 + 설명, 날짜, 색상 라벨, 사진 첨부
+      기간형 일정 조회<br/>
+      설명/날짜/색상 라별 사진 첨부 기능<br/>
+      마지막일 : 시작일 이전 날짜 제한
+
     </td>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_mypage_todo.png" width="100%"><br/>
       <b>🎉 기념일 달력 보기</b><br/>
       개인 / 공식 기념일 구분<br/>
-      D-Day 자동 계산 및 색상 분류
+       D-DAY 자동 계산<br/>
+      전체 보기 기능을 통한 UX 고려
     </td>
   </tr>
 </table>
@@ -452,61 +459,40 @@ NAMANSOLOJAVA
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_events.png" width="100%"><br/>
       <b>🎁 선물 랭킹 TOP10</b><br/>
-      네이버 쇼핑 OpenAPI를 사용하여<br/>
-      최신 인기 선물을 실시간으로 보여줍니다<br/>
-      성별별 추천 기능 (여성/남성 필터)
+      네이버 쇼핑 OpenAPI를 활용<br/>
+      GENDER별 추천 기능<br/>
+      로그인 유저의 나이대별 추천 기능
     </td>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/cc.png" width="100%" height="275px"><br/>
       <b>🤖 AI 데이트 장소 추천</b><br/>
-      WebSocket 기반 실시간 알림 구현<br/>
-      댓글/좋아요/팔로우/날씨까지 하나로 통합<br/>
-      OpenWeather API로 날씨 정보도 함께 표시
+     HUGGING FACE AI 기반 챗봇 연동<br/>
+      "데이트 장소 추천" 등 실시간 대화<br/>
+     직관적이고 친근한 대화 UX 제공
     </td>
   </tr>
 </table>
 
-### 6. 실시간 알람
+### 6. 실시간 알람 및 관리자 페이지
 <table>
   <tr>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/images/ezgif.com-video-to-gif-converter.gif" width="100%"><br/>
       <b>🔔 실시간 알람 전송</b><br/>
-      HuggingFace AI API 기반 챗봇 연동<br/>
-      "데이트 장소 추천" 등 실시간 대화 가능<br/>
-      직관적이고 친근한 대화 UX 제공
+      WEBSOCKET 기반 실시간 알림 구현<br/>
+      댓글/좋아요/팔로우 날씨까지 하나로 통합<br/>
+      OPENWEATHER API로 날씨 정보 표시
     </td>
       <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_events%20(2).png" width="100%"><br/>
-      <b>🔔 실시간 알람 수락</b><br/>
-      HuggingFace AI API 기반 챗봇 연동<br/>
-      "데이트 장소 추천" 등 실시간 대화 가능<br/>
-      직관적이고 친근한 대화 UX 제공
+      <b>📊 관리자 페이지</b><br/>
+      패턴 인지에 최적화된 시각적 정보 전달<br/>
+     정보 중심 시각화에 초점<br/>
+    사이트 내 기념일이나 마케팅 이벤트 관리
     </td>
   </tr>
 </table>
 
-### 7. 관리자 페이지
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/images/localhost_5173_admin_users.png" width="100%"><br/>
-      <b>📊 유저 정보 및 가입 통계</b><br/>
-      - 일별 유저 가입 추이를 차트로 시각화<br/>
-      - 전체 유저 목록 조회 기능 제공<br/>
-      - 목표 가입자 수 대비 현재 가입자 수 확인 가능<br/>
-      - 유저 검색 기능 및 정렬 가능
-    </td>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/images/localhost_5173_admin_feeds.png" width="100%"><br/>
-      <b>📁 앨범 업로드 및 활동 통계</b><br/>
-      - 월별 앨범 업로드 현황을 유저별로 시각화<br/>
-      - 일별 앨범 생성 비율 그래프로 확인 가능<br/>
-      - 유저별 마지막 활동일 통계 표시<br/>
-      - 평균 활동 일자 지표를 통해 사용자 활발도 파악
-    </td>
-  </tr>
-</table>
 
 
 ---
