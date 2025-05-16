@@ -495,8 +495,8 @@ NAMANSOLOJAVA
       <img src="이미지_URL_2" width="100" height="120"><br/>
       <b><a href="https://github.com/yooseoyoung" target="_blank">유서영</a></b><br/>
       즐겨찾기/댓글/팔로우 <br/>
-      앨범 기능 <br/>
-      DTO 설계 
+      코어/앨범 기능 <br/>
+      DTO/WireFrame 설계
     </td>
     <td align="center" width="180px">
       <img src="이미지_URL_3" width="100" height="120"><br/>
@@ -509,6 +509,7 @@ NAMANSOLOJAVA
       <img src="이미지_URL_4" width="100" height="120"><br/>
       <b>강준우</b><br/>
        UI 디자인<br/>
+       자료 수집<br/>
         SQL 구성
     </td>
   </tr>
