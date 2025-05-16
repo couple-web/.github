@@ -135,6 +135,7 @@ WE ARE는 단순한 커플 다이어리나 메신저를 넘어서,
 - Axios
 - WebSocket (실시간 알림)
 - Visual Studio Code
+- HTML5 / CSS3
 
 ### 2. Backend
 - Java
@@ -144,7 +145,7 @@ WE ARE는 단순한 커플 다이어리나 메신저를 넘어서,
 - MySQL
 - WebSocket (STOMP 기반 실시간 처리)
 - Scheduler (@Scheduled 기반 예약 작업)
-- Gradle
+- Maven
 - IntelliJ IDEA
 
 ### 3. Storage & Infra
@@ -153,6 +154,8 @@ WE ARE는 단순한 커플 다이어리나 메신저를 넘어서,
 - Nginx (정적 자원 라우팅)
 - Jenkins (CI/CD 파이프라인 자동화)
 - GitHub Actions (자동화 빌드/테스트)
+- Swagger UI
+- DBeaver
 
 ### 4. External API & AI
 - Google Map API (지도 기반 장소 표시)
@@ -164,7 +167,6 @@ WE ARE는 단순한 커플 다이어리나 메신저를 넘어서,
 - GitHub (형상 관리 / 협업)
 - Notion (회의록, 기획 정리)
 - Figma (UI 디자인 협업)
-- ERDCloud (DB 설계 시각화)
 
 
 ---
