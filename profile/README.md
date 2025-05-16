@@ -179,7 +179,7 @@ WE ARE는 단순한 커플 다이어리나 메신저를 넘어서,
 1. [기능 명세서 (PDF)](https://github.com/Dwsok472/NamanSOLO/blob/main/기능명세서.pdf)
 2. [API 명세서 (PDF)](https://github.com/Dwsok472/NamanSOLO/blob/main/api%EB%AA%85%EC%84%B8%EC%84%9C.pdf)
 3. [와이어프레임 (Figma)](https://www.figma.com/design/KNSEuzmYAAMkwDF5MlgTV8/Untitled?node-id=0-1&t=ZF9OZGYEJrHVd5QG-1)
-4. [ERD 다이어그램 (이미지)](https://raw.githubusercontent.com/couple-web/.github/main/ERD.png)
+4. [ERD 다이어그램 (이미지)](https://github.com/Dwsok472/NamanSOLO/main/ERD.jpg)
 5. [컴포넌트 명세서 (Figma)](https://www.figma.com/design/iNDzBBagw3jkQKrJD69gVv/%EB%82%98%EB%A7%8C%EC%86%94%EB%A1%9C%ED%8C%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%AA%85%EC%84%B8?node-id=0-1&t=fUXqk7UORPTot8a4-1)
 6. [프로젝트 PPT(Canva)](https://www.canva.com/design/DAGln_TjWLg/eJiyxtflh2uCZNtgm2XO2Q/view?utm_content=DAGln_TjWLg&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel)
 
