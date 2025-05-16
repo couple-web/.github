@@ -341,10 +341,16 @@ NAMANSOLOJAVA
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_album_all.png" width="100%"><br/>
       <b>🌞 인트로 애니메이션</b><br/>
+       WebSocket 기반 실시간 알림 구현<br/>
+      댓글/좋아요/팔로우/날씨까지 하나로 통합<br/>
+      OpenWeather API로 날씨 정보도 함께 표시
     </td>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_album_all (1).png" width="100%"><br/>
       <b>✨ 메인 페이지</b><br/>
+       WebSocket 기반 실시간 알림 구현<br/>
+      댓글/좋아요/팔로우/날씨까지 하나로 통합<br/>
+      OpenWeather API로 날씨 정보도 함께 표시
     </td>
   </tr>
 </table>
@@ -359,10 +365,16 @@ NAMANSOLOJAVA
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_album_all.png" width="100%"><br/>
       <b>📂 전체 앨범 목록</b><br/>
+       WebSocket 기반 실시간 알림 구현<br/>
+      댓글/좋아요/팔로우/날씨까지 하나로 통합<br/>
+      OpenWeather API로 날씨 정보도 함께 표시
     </td>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_album_all (1).png" width="100%"><br/>
       <b>📸 앨범 상세 미리보기</b><br/>
+       WebSocket 기반 실시간 알림 구현<br/>
+      댓글/좋아요/팔로우/날씨까지 하나로 통합<br/>
+      OpenWeather API로 날씨 정보도 함께 표시
     </td>
   </tr>
 </table>
@@ -375,15 +387,21 @@ NAMANSOLOJAVA
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_map.png" width="100%"><br/>
       <b>🗺️ 지역 선택 후 장소 리스트</b><br/>
+      WebSocket 기반 실시간 알림 구현<br/>
+      댓글/좋아요/팔로우/날씨까지 하나로 통합<br/>
+      OpenWeather API로 날씨 정보도 함께 표시
     </td>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_map%20(1).png" width="100%"><br/>
       <b>📌 장소 선택후 상세 모달</b><br/>
+      WebSocket 기반 실시간 알림 구현<br/>
+      댓글/좋아요/팔로우/날씨까지 하나로 통합<br/>
+      OpenWeather API로 날씨 정보도 함께 표시
     </td>
   </tr>
 </table>
 
-### 5. 마이페이지 & 캘린더 기능
+### 4. 마이페이지 & 캘린더 기능
 
 <table>
   <tr>
@@ -419,30 +437,23 @@ NAMANSOLOJAVA
 </table>
 
 
-### 6. 선물 추천& AI 챗봇
+### 5. 선물 추천& AI 챗봇
 
 <table>
   <tr>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_events.png" width="100%"><br/>
       <b>🎁 선물 랭킹 TOP10</b><br/>
-      - 네이버 쇼핑 OpenAPI를 사용하여<br/>
-      - 최신 인기 선물을 실시간으로 보여줍니다<br/>
-      - 성별별 추천 기능 (여성/남성 필터)
+      네이버 쇼핑 OpenAPI를 사용하여<br/>
+      최신 인기 선물을 실시간으로 보여줍니다<br/>
+      성별별 추천 기능 (여성/남성 필터)
     </td>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_events%20(1).png" width="100%"><br/>
       <b>🔔 실시간 알림</b><br/>
-      - WebSocket 기반 실시간 알림 구현<br/>
-      - 댓글/좋아요/팔로우/날씨까지 하나로 통합<br/>
-      - OpenWeather API로 날씨 정보도 함께 표시
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/localhost_5173_events%20(2).png" width="100%"><br/>
-      <b>🤖 AI 챗봇</b><br/>
-      - HuggingFace AI API 기반 챗봇 연동<br/>
-      - "데이트 장소 추천" 등 실시간 대화 가능<br/>
-      - 직관적이고 친근한 대화 UX 제공
+      WebSocket 기반 실시간 알림 구현<br/>
+      댓글/좋아요/팔로우/날씨까지 하나로 통합<br/>
+      OpenWeather API로 날씨 정보도 함께 표시
     </td>
   </tr>
 </table>
