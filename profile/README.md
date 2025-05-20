@@ -463,7 +463,7 @@ NAMANSOLOJAVA
       로그인 유저의 나이대별 추천 기능
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/cc.png" width="100%" height="275px"><br/>
+      <img src="https://raw.githubusercontent.com/Dwsok472/NamanSOLO/main/cc.png" width="100%"><br/>
       <b>🤖 AI 데이트 장소 추천</b><br/>
      HUGGING FACE AI 기반 챗봇 연동<br/>
       "데이트 장소 추천" 등 실시간 대화<br/>
